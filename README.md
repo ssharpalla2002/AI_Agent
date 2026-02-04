@@ -7,7 +7,7 @@ An intelligent Stock Market AI Agent that answers questions about stock market p
 ## Project Images
 
 <div align="center">
-  <h3>App Interface</h3>
+  <h3>App Interfaces</h3>
   <img src="images/agent1.png" alt="App Interface" style="max-width: 100%; height: auto;" />
 </div>
 
